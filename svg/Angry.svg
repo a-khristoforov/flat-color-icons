@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<circle fill="#FFCA28" cx="24" cy="24" r="19"/>
-<g>
-	<path fill="#FF3D00" d="M25.813,20.313c0,0,2.721,4.33,7.059,2.223c3.16-1.535,4.004-6.91,4.004-6.91L25.813,20.313z"/>
-	<path fill="#FF3D00" d="M11.125,15.625c0,0,0.844,5.375,4.004,6.91c4.338,2.107,7.058-2.223,7.058-2.223L11.125,15.625z"/>
-</g>
-<path fill="none" stroke="#B76C09" stroke-width="2" d="M34.974,32.134C27.967,22.124,21.019,40.101,14,31.122"/>
-<g>
-	<path d="M15.643,17.539C15.25,17.904,15,18.421,15,19c0,1.104,0.896,2,2,2s2-0.896,2-2c0-0.014-0.004-0.026-0.004-0.04
-		L15.643,17.539z"/>
-	<path d="M32.357,17.539l-3.354,1.421C29.004,18.974,29,18.986,29,19c0,1.104,0.896,2,2,2s2-0.896,2-2
-		C33,18.421,32.75,17.904,32.357,17.539z"/>
-</g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<circle style="fill:#FFCA28;" cx="24" cy="24" r="19"/>
+<path style="fill:none;stroke:#B76C09;stroke-width:2;" d="M30,33.991c-4.206-6.461-7.298,5.474-12-0.991"/>
+<path style="fill:#FF3D00;" d="M37.063,19.511L26,24.199c0,0,2.72,4.33,7.058,2.223C36.219,24.886,37.063,19.511,37.063,19.511z"/>
+<circle style="fill:#FF3D00;" cx="31.188" cy="22.886" r="4"/>
+<circle cx="31.188" cy="22.886" r="2"/>
+<path style="fill:#FFCA28;" d="M37.063,19.511L26,24.199c0,0,0.188-5.313,3.188-6.313S37.063,19.511,37.063,19.511z"/>
+<path style="fill:#FF3D00;" d="M10.938,19.511L22,24.199c0,0-2.721,4.33-7.059,2.223C11.781,24.886,10.938,19.511,10.938,19.511z"/>
+<circle style="fill:#FF3D00;" cx="17" cy="23" r="4"/>
+<circle cx="17" cy="23" r="2"/>
+<path style="fill:#FFCA28;" d="M10.938,19.511L22,24.199c0,0-0.187-5.313-3.187-6.313S10.938,19.511,10.938,19.511z"/>
 </svg>
