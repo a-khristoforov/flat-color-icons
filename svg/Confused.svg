@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<circle fill="#FFCA28" cx="24" cy="24" r="19"/>
-<g>
-	<ellipse fill="#E5A80E" cx="17" cy="17" rx="3" ry="4"/>
-	<ellipse fill="#E5A80E" cx="31" cy="17" rx="3" ry="4"/>
-</g>
-<g>
-	<ellipse fill="#FFFFFF" cx="17" cy="19" rx="3" ry="4"/>
-	<ellipse fill="#FFFFFF" cx="31" cy="19" rx="3" ry="4"/>
-</g>
-<g>
-	<ellipse fill="#1976D2" cx="17" cy="19" rx="1.5" ry="2"/>
-	<ellipse fill="#1976D2" cx="31" cy="19" rx="1.5" ry="2"/>
-</g>
-<path fill="none" stroke="#B76C09" stroke-width="2" d="M34.974,32.134C27.967,22.124,21.019,40.101,14,31.122"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<circle style="fill:#FFCA28;" cx="24" cy="24" r="19"/>
+<circle style="fill:#6D4C41;" cx="17" cy="23" r="4"/>
+<circle style="fill:#FFFFFF;" cx="15.5" cy="21.5" r="1.5"/>
+<circle style="fill:#6D4C41;" cx="31" cy="23" r="4"/>
+<circle style="fill:#FFFFFF;" cx="29.5" cy="21.5" r="1.5"/>
+<path style="fill:none;stroke:#B76C09;stroke-width:2;" d="M30,33.991c-4.206-6.461-7.298,5.474-12-0.991"/>
 </svg>
